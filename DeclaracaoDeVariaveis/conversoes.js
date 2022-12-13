@@ -20,3 +20,12 @@ console.log(numero + Number(numeroString)) // retorna a soma dos valores
 // Se a string tiver algo diferente de Numero, a função retorna NaN
 const numeroErrado = "456a";
 console.log(Number(numeroErrado))
+
+// Também podemos fazer conversões para string utilizando a função .toString()
+const telefone = 997805018
+console.log(telefone.toString())
+
+// Podemos utilizar o operador "+" antes das variaveis para transforma-las em numero
+const largura = "10"
+const altura = "5"
+console.log(+ largura * + altura)
