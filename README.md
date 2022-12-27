@@ -21,3 +21,11 @@
 ## Funções
 
 ### Contém arquivos detalhando os tipos de funções, declarações e exemplos de uso. Além disso, possuí detalhes sobre parametros e argumentos.
+
+## Arrays
+
+### Contém arquivos descrevendo detalhes sobre o uso de Arrays em JS. Exemplos de listas comuns, 2D, exemplos e o uso de algumas funções como slice e splice.
+
+## Laços de Repetição
+
+### Contém arquivos descrevendo o uso de Loops (While, For, ForOf, ForEach) além do uso de Map, Reduce, Set, Callbacks e Spread Operators.
